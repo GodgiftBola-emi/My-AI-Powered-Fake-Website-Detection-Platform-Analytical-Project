@@ -593,8 +593,6 @@ The findings indicate that internet users are interested in practical cybersecur
 
 Ultimately, the effectiveness of SafeLink AI will depend not only on the accuracy of its detection capabilities but also on its ability to provide **trustworthy, transparent, accessible, and user-centred cybersecurity assistance. By empowering users with understandable risk information and practical safety features, the platform can support individuals in making safer and more informed decisions while browsing the internet.
 
-
-
 REFERENCES:
 
 1. Google Forms. (2026). SafeLink AI User Survey Dataset. [SafeLink AI User Research Survey (Responses).xlsx]
